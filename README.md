@@ -27,3 +27,8 @@ npm install
 ```
 DATABASE_URL=mongodb://localhost/file-sharing ./run
 ```
+# Run the test.
+
+```
+npm test
+```
