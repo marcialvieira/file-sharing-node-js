@@ -1,7 +1,7 @@
 const mongoose = require("mongoose")
 
 const File = new mongoose.Schema({
-  path: {
+  id: {
     type: String,
     required: true,
   },
